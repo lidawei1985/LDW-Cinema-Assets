@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.61.apk",
-  "changelog": "修复电视遥控器焦点乱跳、主页反复重建、返回路径异常；更新检查改用无缓存清单，取消低速强制失败。",
-  "versionName": "1.0.61",
-  "versionCode": 61,
-  "sha256": "c938c32f9c5a91b0108803e3ffbe1336bbae45167e936f3f1f30db2e401bfc2a"
+  "changelog": "修复电视主页在海报加载失败和分类加载完成时自动删卡、重排列表并抢走遥控器焦点的问题；影片区操作期间保持列表与焦点稳定。",
+  "versionCode": 63,
+  "versionName": "1.0.63",
+  "sha256": "28fd9e1d1274051531b84889185f73aca7859a6892a5da65e8cbf205ed62bf87",
+  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.63.apk"
 }
