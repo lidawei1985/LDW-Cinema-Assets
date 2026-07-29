@@ -1,0 +1,7 @@
+{
+  "versionCode": 57,
+  "versionName": "1.0.57",
+  "apkUrl": "https://codeberg.org/sbqqqiiiu2/LDW-Cinema-Assets/raw/branch/main/LDW-Cinema-v1.0.57.apk",
+  "sha256": "d22e9fba1377d2eb3099fa5142799cec2608eeab4a1f9380dd32cf2ba09a3822",
+  "changelog": "新增 Codeberg 与 GitHub 双更新通道：并行测速后选择最快线路，下载中断或失败自动切换备用线路；修复国内网络下 GitHub 更新缓慢和 404 问题。"
+}
