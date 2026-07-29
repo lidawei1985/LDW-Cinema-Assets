@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.59",
-  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.59.apk",
-  "sha256": "b329ef3e25b799ad68fa2ce9cbbb11595667b0e8c1d445d60e1cd500309f486b",
-  "changelog": "v1.0.41 专用兼容更新：使用 GitHub Raw 直链，避开 Release 地址改写导致的 HTTP 404。"
+  "versionCode": 60,
+  "versionName": "1.0.60",
+  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.60.apk",
+  "sha256": "1991b6536a6d0fd3976cb8c59b0948eca2636e7d7e35a99cf9cdbac118f10115",
+  "changelog": "修复电视遥控器焦点乱跳、主页分类加载反复重建、返回路径异常；取消低速线路强制失败，更新下载可随时取消。"
 }
