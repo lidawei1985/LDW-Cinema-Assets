@@ -1,7 +1,11 @@
 {
-  "changelog": "修复电视主页在海报加载失败和分类加载完成时自动删卡、重排列表并抢走遥控器焦点的问题；影片区操作期间保持列表与焦点稳定。",
-  "versionCode": 63,
-  "versionName": "1.0.63",
-  "sha256": "28fd9e1d1274051531b84889185f73aca7859a6892a5da65e8cbf205ed62bf87",
-  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.63.apk"
+  "changelog": "电视遥控器焦点与逐级返回稳定化；完成片名、演员、导演及拼音首字母联想；修复真实排序筛选；强化海报兜底、播放线路、正常/成人模式隔离、密码生命周期和远程更新。",
+  "versionCode": 73,
+  "versionName": "1.0.73",
+  "sha256": "5cbaf1d98c1f2e583dc69e3ab8f178238a3dbf26b1fbd338c0d4db17c0065040",
+  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.73.apk",
+  "downloadUrls": [
+    "https://codeberg.org/sbqqqiiiu2/LDW-Cinema-Assets/raw/branch/main/LDW-Cinema-v1.0.73.apk",
+    "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.73.apk"
+  ]
 }
