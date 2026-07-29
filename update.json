@@ -1,11 +1,11 @@
 {
   "changelog": "电视遥控器焦点与逐级返回稳定化；完成片名、演员、导演及拼音首字母联想；修复真实排序筛选；强化海报兜底、播放线路、正常/成人模式隔离、密码生命周期和远程更新。",
-  "versionCode": 73,
-  "versionName": "1.0.73",
-  "sha256": "5cbaf1d98c1f2e583dc69e3ab8f178238a3dbf26b1fbd338c0d4db17c0065040",
-  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.73.apk",
+  "versionCode": 74,
+  "versionName": "1.0.74",
+  "sha256": "9c32098e7e0203d0e7b91732187529a1a57951edbbf1bb09e88610adacaf1a6b",
+  "apkUrl": "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.74.apk",
   "downloadUrls": [
-    "https://codeberg.org/sbqqqiiiu2/LDW-Cinema-Assets/raw/branch/main/LDW-Cinema-v1.0.73.apk",
-    "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.73.apk"
+    "https://codeberg.org/sbqqqiiiu2/LDW-Cinema-Assets/raw/branch/main/LDW-Cinema-v1.0.74.apk",
+    "https://raw.githubusercontent.com/lidawei1985/LDW-Cinema-Assets/main/LDW-Cinema-v1.0.74.apk"
   ]
 }
